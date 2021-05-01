@@ -17,4 +17,10 @@
   * [Variable](javascript-fundamentals/variable.md)
   * [Data Type](javascript-fundamentals/data-type/README.md)
     * [Undefined](javascript-fundamentals/data-type/undefined.md)
+    * [Numbers](javascript-fundamentals/data-type/numbers.md)
+    * [BigInt](javascript-fundamentals/data-type/bigint.md)
+    * [Strings](javascript-fundamentals/data-type/strings.md)
+    * [Boolean](javascript-fundamentals/data-type/boolean.md)
+    * [Null](javascript-fundamentals/data-type/null.md)
+    * [Symbol](javascript-fundamentals/data-type/symbol.md)
 
