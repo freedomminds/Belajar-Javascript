@@ -15,6 +15,6 @@
   * [Menulis Kode JavaScript Pertama](javascript-fundamentals/menulis-kode-javascript-pertama.md)
   * [Comments](javascript-fundamentals/comments.md)
   * [Variable](javascript-fundamentals/variable.md)
-  * [Data Type](javascript-fundamentals/data-type.md)
-  * [Undefined](javascript-fundamentals/undefined.md)
+  * [Data Type](javascript-fundamentals/data-type/README.md)
+    * [Undefined](javascript-fundamentals/data-type/undefined.md)
 
