@@ -36,4 +36,9 @@
     * [For of loop](javascript-fundamentals/loop/for-of-loop.md)
     * [While and do-while](javascript-fundamentals/loop/while-and-do-while.md)
     * [Infinite loops](javascript-fundamentals/loop/infinite-loops.md)
+  * [Kuis Coding: Variabel dan Tipe Data](javascript-fundamentals/kuis-coding-variabel-dan-tipe-data.md)
+  * [Kuis Coding: Logika Operator dan If Else](javascript-fundamentals/kuis-coding-logika-operator-dan-if-else.md)
+  * [Rangkuman Materi](javascript-fundamentals/rangkuman-materi/README.md)
+    * [Materi Pendukung](javascript-fundamentals/rangkuman-materi/materi-pendukung.md)
+    * [Pertanyaan](javascript-fundamentals/rangkuman-materi/pertanyaan.md)
 
