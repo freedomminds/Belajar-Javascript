@@ -43,4 +43,5 @@
     * [Pertanyaan](javascript-fundamentals/rangkuman-materi/pertanyaan.md)
 * [Data Structure](data-structure/README.md)
   * [Object](data-structure/object.md)
+  * [Array](data-structure/array.md)
 
