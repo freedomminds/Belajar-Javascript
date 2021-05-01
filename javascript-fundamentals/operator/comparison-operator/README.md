@@ -17,7 +17,7 @@ Terdapat serangkaian karakter khusus yang disebut dengan operator pembanding/kom
 
 Ketika kita melakukan perbandingan antara dua nilai, JavaScript akan mengevaluasi kedua nilai tersebut dan mengembalikan boolean dengan nilai hasil perbandingan tersebut, baik false atau true. Berikut contohnya:
 
-```text
+```javascript
 let a = 10;
 let b = 12;
 

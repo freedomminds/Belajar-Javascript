@@ -27,4 +27,5 @@
     * [Assignment Operator](javascript-fundamentals/operator/assignment-operator.md)
     * [Comparison Operator](javascript-fundamentals/operator/comparison-operator/README.md)
       * [Perbedaan antara “Sama” dan “Identik”](javascript-fundamentals/operator/comparison-operator/perbedaan-antara-sama-dan-identik.md)
+    * [Logical Operator](javascript-fundamentals/operator/logical-operator.md)
 
