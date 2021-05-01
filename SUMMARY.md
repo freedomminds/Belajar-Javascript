@@ -30,4 +30,10 @@
     * [Logical Operator](javascript-fundamentals/operator/logical-operator.md)
   * [If/Else Statement](javascript-fundamentals/if-else-statement/README.md)
     * [Truthy & Falsy](javascript-fundamentals/if-else-statement/truthy-and-falsy.md)
+  * [Switch Case Statement](javascript-fundamentals/switch-case-statement.md)
+  * [Loop](javascript-fundamentals/loop/README.md)
+    * [For loop](javascript-fundamentals/loop/for-loop.md)
+    * [For of loop](javascript-fundamentals/loop/for-of-loop.md)
+    * [While and do-while](javascript-fundamentals/loop/while-and-do-while.md)
+    * [Infinite loops](javascript-fundamentals/loop/infinite-loops.md)
 
