@@ -41,4 +41,6 @@
   * [Rangkuman Materi](javascript-fundamentals/rangkuman-materi/README.md)
     * [Materi Pendukung](javascript-fundamentals/rangkuman-materi/materi-pendukung.md)
     * [Pertanyaan](javascript-fundamentals/rangkuman-materi/pertanyaan.md)
+* [Data Structure](data-structure/README.md)
+  * [Object](data-structure/object.md)
 
