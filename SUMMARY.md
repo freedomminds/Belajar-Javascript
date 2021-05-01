@@ -11,4 +11,10 @@
   * [Kenapa JavaScript?](pengenalan-kelas/kenapa-javascript.md)
   * [Rangkuman Materi](pengenalan-kelas/rangkuman-materi/README.md)
     * [Materi Pendukung](pengenalan-kelas/rangkuman-materi/materi-pendukung.md)
+* [JavaScript Fundamentals](javascript-fundamentals/README.md)
+  * [Menulis Kode JavaScript Pertama](javascript-fundamentals/menulis-kode-javascript-pertama.md)
+  * [Comments](javascript-fundamentals/comments.md)
+  * [Variable](javascript-fundamentals/variable.md)
+  * [Data Type](javascript-fundamentals/data-type.md)
+  * [Undefined](javascript-fundamentals/undefined.md)
 
