@@ -4,11 +4,9 @@ description: Belajar dimanapun dan kapanpun untuk masyarakat
 
 # Belajar Javascript
 
+### Mekanisme Belajar
 
-
-## Mekanisme Belajar
-
-Selamat datang di Dicoding Academy. Sebelum memulai belajar di kelas ini, Anda perlu tahu tahapan dan cara belajar beserta fasilitas yang tersedia agar proses belajar lebih efektif.
+Selamat datang di Belajar Javascript. Sebelum memulai belajar di kelas ini, Anda perlu tahu tahapan dan cara belajar beserta fasilitas yang tersedia agar proses belajar lebih efektif.
 
 #### Materi Pembelajaran
 
@@ -16,7 +14,7 @@ Selamat datang di Dicoding Academy. Sebelum memulai belajar di kelas ini, Anda p
 * **Forum Diskusi**  
   Setiap kelas memiliki sebuah forum diskusi yang dapat Anda gunakan untuk bertanya \(dan menjawab\) mengenai materi kelas. Instruktur kami yang terdiri dari Curriculum Developer dan Academy Code Reviewer siap membantu Anda melalui forum diskusi ini. Tak hanya kami, Anda pun dapat berpartisipasi. Untuk meningkatkan retensi ilmu yang Anda punya, berbagi adalah salah satu kuncinya. Jadi, silakan aktif dan saling membantu di dalam forum.
 
-  Jika Anda menemui kendala perihal situs Dicoding dan administrasi kelas, tanyakan kepada kami melalui tombol chat di kanan bawah layar Anda ketika membuka situs Dicoding. Jangan gunakan forum diskusi ya karena itu salah alamat.
+  Jika Anda menemui kendala perihal situs Dicodi dan administrasi kelas, tanyakan kepada kami melalui tombol chat di kanan bawah layar Anda ketika membuka situs Dicoding. Jangan gunakan forum diskusi ya karena itu salah alamat.
 
 #### Evaluasi Pembelajaran
 
