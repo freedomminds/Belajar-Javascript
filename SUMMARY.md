@@ -67,5 +67,11 @@
   * [Expression Function](untitled-1/expression-function.md)
   * [Arrow Function](untitled-1/arrow-function.md)
   * [Variable Scope](untitled-1/variable-scope.md)
+  * [Closure](untitled-1/closure.md)
+  * [Kuis Coding: Function](untitled-1/kuis-coding-function.md)
+  * [Rangkuman Materi](untitled-1/rangkuman-materi/README.md)
+    * [Materi Pendukung:](untitled-1/rangkuman-materi/materi-pendukung.md)
+    * [Pertanyaan](untitled-1/rangkuman-materi/pertanyaan.md)
+  * [Untitled](untitled-1/untitled.md)
 * [Untitled](untitled.md)
 
