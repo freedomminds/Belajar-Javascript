@@ -62,5 +62,10 @@
   * [Rangkuman Materi](data-structure/rangkuman-materi/README.md)
     * [Materi Pendukung](data-structure/rangkuman-materi/materi-pendukung.md)
     * [Pertanyaan](data-structure/rangkuman-materi/pertanyaan.md)
-* [Untitled](untitled-1.md)
+* [Functions](untitled-1/README.md)
+  * [Declaring Function](untitled-1/declaring-function.md)
+  * [Expression Function](untitled-1/expression-function.md)
+  * [Arrow Function](untitled-1/arrow-function.md)
+  * [Variable Scope](untitled-1/variable-scope.md)
+* [Untitled](untitled.md)
 
